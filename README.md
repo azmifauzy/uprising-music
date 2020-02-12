@@ -1,5 +1,9 @@
-# uprising-music
-Simple Application for Stream Music
+# What is Uprising?
+Uprising is Simple Application for Stream Music.
+Build with :
+- PHP 7
+- JavaScript
+- Bootstrap 4
 
 # Installation
 1. Clone or Download -> Download ZIP
@@ -16,5 +20,10 @@ Simple Application for Stream Music
 2. Member : 
   - Email     : Azmifauzy@gmail.com
   - Password  : 123
-  
+
+# Follow Me 
+- Facebook  : https://facebook.com/alliensec
+- Instagram : https://instagram.com/azmifauzy.id
+
+
 Thanks :)
