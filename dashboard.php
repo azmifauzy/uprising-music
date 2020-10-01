@@ -1,3 +1,4 @@
+<!-- REQUIRE VIEW HEADER -->
 <?php require 'assets/templates/header.php'; ?>
 
         <!-- Begin Page Content -->
@@ -82,4 +83,5 @@
         </div>
         <!-- /.container-fluid -->
 
+<!-- REQUIRE VIEW FOOTER -->
 <?php require 'assets/templates/footer.php'; ?>
