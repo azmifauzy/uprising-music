@@ -34,7 +34,7 @@ if( isset($_POST["signup"])) {
 }
 
 
-// CEK LOGIN 
+// CEK LOGINs
 if( isset($_POST["signin"])) {
   if( !empty($_POST["email"])&&
       !empty($_POST["password"])) {
