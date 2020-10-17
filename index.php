@@ -7,7 +7,7 @@ session_start();
 require 'db/function.php';
 $db = new Databasedx();
 
-// === QUERY TRACK === //
+// === QUERY TRACKs === //
 $allTrack = $db->getAllTrack();
 $getThirdTrack = $db->getThirdTrack();
 
