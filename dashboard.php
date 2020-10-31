@@ -1,7 +1,7 @@
 <!-- REQUIRE VIEW HEADER -->
 <?php require 'assets/templates/header.php'; ?>
 
-        <!-- Begin Page Content -->
+        <!-- hacked Begin Page Content -->
         <div class="container-fluid" style="background-image: url(http://localhost/Uprising/assets/images/awesome-feat-bg-1.png); background-size: cover; height: 90%;">
 
           <?php if( isset($_GET["action"] ) ) : ?>
