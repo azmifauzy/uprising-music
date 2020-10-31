@@ -1,6 +1,6 @@
 <?php  
 
-// Session Start
+//rangga Session Start
 session_start();
 
 // Delete Session
