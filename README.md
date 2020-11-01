@@ -6,7 +6,7 @@ Build with :
 - Bootstrap 4
 
 # Installation
-1. Clone or Download -> Download ZIP
+1. Clone or Download -> Download ZIPs
 2. Extract Zip in your htdocs
 3. Run Local Server (Xampp, Lampp, or anything)
 4. Create Database by the name 'uprising'
