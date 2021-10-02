@@ -1,4 +1,4 @@
-<!-- REQUIRE VIEW stress -->
+<!-- REQUIRE VIEW HEADER -->
 <?php require 'assets/templates/header.php'; ?>
 
         <!-- hacked Begin Page Content -->
