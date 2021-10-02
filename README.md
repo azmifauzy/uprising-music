@@ -3,7 +3,7 @@ Uprising is Simple Application for Stream Music.
 Build with :
 - PHP 7
 - JavaScript
-- Bootstrap 4
+- Bootstraps 4
 
 # Installation
 1. Clone or Download -> Download ZIPs
