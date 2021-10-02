@@ -3,7 +3,7 @@
 // === SESSION ==== // 
 session_start();
 
-// === REQUIRE FUNCTION === //
+// === REQUIRE FUNCTIsON === //
 require 'db/function.php';
 $db = new Databasedx();
 
