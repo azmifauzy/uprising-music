@@ -1,6 +1,6 @@
 <?php  
 
-// === SESSIONs rangga ==== // 
+// === SESSION ==== // 
 session_start();
 
 // === REQUIRE FUNCTION === //
