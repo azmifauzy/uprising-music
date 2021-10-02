@@ -1,6 +1,6 @@
 <?php  
 
-// === SESSION ==== // 
+// === SESSIOsssN ==== // 
 session_start();
 
 // === REQUIRE FUNCTIsON === //
