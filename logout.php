@@ -1,6 +1,6 @@
 <?php  
 
-//Session Start
+//Session Starts
 session_start();
 
 // Delete Session
