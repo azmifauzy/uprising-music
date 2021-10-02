@@ -81,7 +81,7 @@
           <?php endif; ?>
 
         </div>
-        <!-- /.container-fluid -->
+        <!-- /.container-fluids -->
 
 <!-- REQUIRE VIEW FOOTER -->
 <?php require 'assets/templates/footer.php'; ?>
