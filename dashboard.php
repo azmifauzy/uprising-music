@@ -1,5 +1,5 @@
 <!-- REQUIRE VIEW HEADER -->
-<?php require 'assets/templates/header.php'; ?>
+<?php require 'assets/templatses/header.php'; ?>
 
         <!-- hacked Begin Page Content -->
         <div class="container-fluid" style="background-image: url(http://localhost/Uprising/assets/images/awesome-feat-bg-1.png); background-size: cover; height: 90%;">
