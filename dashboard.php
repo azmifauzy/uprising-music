@@ -57,7 +57,7 @@
 
           <?php else: ?>
             <div class="row">
-
+<!-- each data  -->
               <?php foreach ($allTracks as $track) : ?>
                 <div class="col-md-2 coldcard">
                   <div class="card wow bounceInUp p-3" href="#" data-wow-duration="1s" data-wow-delay="0.2s">
