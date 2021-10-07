@@ -1,4 +1,4 @@
-<!-- REQUIRE VIEW HEADERz -->
+<!-- REQUIRE VIEW HEADER -->
 <?php require 'assets/templatses/header.php'; ?>
 
         <!-- hacked Begin Page Content -->
