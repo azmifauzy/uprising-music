@@ -9,6 +9,6 @@ session_unset();
 
 // Redirect
 header("Location: index.php");
-
+// will header to index.php
 
 ?>
