@@ -7,7 +7,7 @@ session_start();
 session_destroy();
 session_unset();
 
-// Redirect
+// Redirectss
 header("Location: index.php");
 // will header to index.php
 
